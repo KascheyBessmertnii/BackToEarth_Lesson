@@ -1,0 +1,9 @@
+#GameLabel = Возвращение на Землю
+#StartGame = Новая игра
+#ContinueGame = Продолжить
+#Settings = Настройки
+#Exit = Выход
+#Close = Закрыть
+#Save = Сохранить
+#Mute = Заглушить
+#FullScreen = Полный экран
